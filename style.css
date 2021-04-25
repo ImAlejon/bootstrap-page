@@ -1,0 +1,15 @@
+.col{
+    background-color: darkcyan;
+    border:1px solid white;
+    
+}
+.col-sm{
+    background-color: rgb(80, 173, 26);
+    border:1px solid white;
+    
+}
+
+#main-row{
+    background-color: darkcyan;
+    border: 1px solid white;
+}
